@@ -50,7 +50,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     <tr>
         <td>May 25, 2022</td>
         <td>
-            <a href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/">How we use Dependabot</a> and <a href="https://www.youtube.com/watch?v=yvXKlDgiGHo">▶️Enable Dependabot in 1 minute</a>
+            <a href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/">How we use Dependabot</a> and <a href="https://www.youtube.com/watch?v=yvXKlDgiGHo">Video: Enable Dependabot</a>
         </td>
     </tr>
     <tr>
