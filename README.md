@@ -1,5 +1,5 @@
 # GithubEagleEye 🦅
-Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Overview of All Github Updates</strong>
+Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Updates</strong>
 <br>
 <br>
 <table>
@@ -15,13 +15,13 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     <tr>
       <td>March 23, 2023</td>
       <td>
-        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">Introducing Skills: Secure Code Game</a> 
+        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">Introducing Secure Code Game</a> 
         <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">📺</a>
       </td>
     </tr>
     <tr>
       <td>March 22, 2023</td>
-      <td><a href="https://github.com/features/preview/copilot-x">Introducing Copilot X</a></td>
+      <td><a href="https://github.com/features/preview/copilot-x">Introducing Github Copilot X</a></td>
     </tr>
     <tr>
       <td>January 31, 2023</td>
@@ -33,7 +33,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>November 10, 2022</td>
-      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Introducing Codespaces</a></td>
+      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Introducing Github Codespaces</a></td>
     </tr>
     <tr>
       <td>August 29, 2022 </td>
@@ -45,11 +45,11 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>June 21, 2022</td>
-      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Introducing Copilot</a></td>
+      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Introducing Github Copilot</a></td>
     </tr>
     <tr>
       <td>June 9, 2022</td>
-      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Introducing Achievements</a></td>
+      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Introducing Github Achievements</a></td>
     </tr>
     <tr>
       <td>June 6, 2022</td>
