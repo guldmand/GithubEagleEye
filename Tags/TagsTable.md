@@ -47,56 +47,6 @@
         <td><a href="https://github.blog/tag/audit/">audit</a></td>
         <td>An evaluation of an organization's processes, systems, or products to ensure compliance with regulations, standards, and best practices.</td>
     </tr>
-    <
-<table>
-    <tr>
-        <th>Tag</th>
-        <th>Description</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/2fa/">2fa</a></td>
-        <td>Two-factor authentication (2FA) is a security system that requires two separate, distinct forms of identification in order to access something.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/24-pull-requests/">24-pull-requests</a></td>
-        <td>A yearly initiative encouraging developers to contribute to open source projects during December, aiming for 24 pull requests in total.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/accessibility/">accessibility</a></td>
-        <td>Designing and developing software, websites, and applications that can be used by people with disabilities, ensuring equal access for all users.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/action-hero/">action-hero</a></td>
-        <td>A program recognizing the contributions of developers who create and maintain GitHub Actions, which are reusable pieces of code for automating software workflows.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/ai/">ai</a></td>
-        <td>Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that usually require human intelligence, such as visual perception, speech recognition, and decision-making.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/android/">android</a></td>
-        <td>Android is a mobile operating system developed by Google, based on the Linux kernel and designed primarily for touchscreen mobile devices such as smartphones and tablets.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/appsec/">appsec</a></td>
-        <td>Application Security (AppSec) is the process of making applications more secure by finding, fixing, and enhancing the security of the application during its development and maintenance.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/arctic-code-vault/">arctic-code-vault</a></td>
-        <td>A data preservation project by GitHub that aims to store and preserve open-source software for future generations by storing the code in a secure facility in the Arctic.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/artificial-intelligence/">artificial-intelligence</a></td>
-        <td>See "ai" for description.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/assembly/">assembly</a></td>
-        <td>Assembly language is a low-level programming language used for a computer or other programmable device, in which there is a strong correspondence between the language's instructions and the architecture's machine code instructions.</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.blog/tag/audit/">audit</a></td>
-        <td>An evaluation of an organization's processes, systems, or products to ensure compliance with regulations, standards, and best practices.</td>
-    </tr>
     <tr>
         <td><a href="https://github.blog/tag/bash/">bash</a></td>
         <td>Bash is a Unix shell and command-line interface for interacting with an operating system. It is widely used as the default shell on Linux and macOS.</td>
