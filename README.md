@@ -1,5 +1,5 @@
 # GithubEagleEye 🦅
-Github Reconnaissance:satellite: and Monitoring: <strong>A Clear Overview of All Github Updates</strong>
+Github Reconnaissance:satellite: and Monitoring:chart_with_upwards_trend:: <strong>A Clear Overview of All Github Updates</strong>
 <br>
 <br>
 <table>
