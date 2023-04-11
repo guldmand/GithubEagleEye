@@ -15,7 +15,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     <tr>
       <td>March 23, 2023</td>
       <td>
-        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">:spiral_notepad:: GitHub Secure Code Game</a> 
+        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">:spiral_notepad: GitHub Secure Code Game</a> 
         <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">📺</a>
       </td>
     </tr>
