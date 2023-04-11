@@ -1,5 +1,5 @@
 # GithubEagleEye 🦅
-Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
+Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates <br>
 <br>
 <!--
 April 4, 2023           GithubEagleEye was created
