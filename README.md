@@ -48,6 +48,13 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
       <td><a href="https://github.blog/2022-06-06-introducing-github-skills/">Introducing GitHub Skills</a></td>
     </tr>
     <tr>
+        <td>May 25, 2022</td>
+        <td>
+            <a href="https://github.blog/2022-05-25-how-we-use-dependabot-to-secure-github/">How we use Dependabot to secure GitHub</a> and 
+            <a href="https://www.youtube.com/watch?v=yvXKlDgiGHo">Video: Enable Dependabot in 1 minute</a>
+        </td>
+    </tr>
+    <tr>
       <td>May 19, 2022</td>
       <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">Markdown math</a></td>
     </tr>
@@ -74,6 +81,10 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     <tr>
       <td>February 16, 2021</td>
       <td>Github 3.0 Released</td>
+    </tr>
+    <tr>
+      <td>June 1, 2020</td>
+      <td><a href="https://github.blog/2020-06-01-keep-all-your-packages-up-to-date-with-dependabot/">Introducting Github Dependabot</a></td>
     </tr>
     <tr>
       <td>March 16, 2020</td>
