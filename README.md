@@ -36,14 +36,6 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
       <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Introducing Github Codespaces</a></td>
     </tr>
     <tr>
-      <td>August 29, 2022 </td>
-      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">Git’s database internals I: packed object store</a></td>
-    </tr>
-    <tr>
-      <td>June 30, 2022 </td>
-      <td><a href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/">Write Better Commits, Build Better Projects</a></td>
-    </tr>
-    <tr>
       <td>June 21, 2022</td>
       <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Introducing Github Copilot</a></td>
     </tr>
@@ -66,6 +58,10 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     <tr>
       <td>April 7, 2022</td>
       <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Git Credential Manager: authentication for everyone</a></td>
+    </tr>
+    <tr>
+        <td>June 23, 2021</td>
+        <td><a href="https://github.blog/2021-06-23-introducing-new-github-issues/">Introducing updated Github Issues and its effect Github Projects</a> <a href="https://github.com/features/issues">Projects Overview</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
@@ -110,6 +106,10 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     <tr>
         <td>February 14, 2017</td>
         <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">:file_cabinet: Repository</a></td>
+    </tr>
+    <tr>
+      <td>October 27, 2016 </td>
+      <td><a href="https://github.blog/2016-10-27-introducing-projects-for-organizations/">Introducing Github Projects</a></td>
     </tr>
     <tr>
       <td>September 1, 2015</td>
