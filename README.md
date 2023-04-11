@@ -36,8 +36,19 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
       <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Blog: Github Codespaces Introduced</a></td>
     </tr>
     <tr>
+      <td>June 30, 2022 </td>
+      <td><a href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/">Blog: Write Better Commits, Build Better Projects</a></td>
+    </tr>
+    
+    
+    <tr>
       <td>June 21, 2022</td>
       <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Blog: GitHub Copilot available to all developers</a></td>
+    </tr>
+    
+    <tr>
+      <td>June 9, 2022</td>
+      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Blog: Introducing Achievements: recognizing the many stages of a developer’s coding journey</a></td>
     </tr>
     <tr>
       <td>June 6, 2022</td>
