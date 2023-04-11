@@ -47,10 +47,22 @@ February 16, 2021       Github version 3.0 Released
       <td>June 21, 2022</td>
       <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Blog: GitHub Copilot available to all developers</a></td>
     </tr>
+    
+    
+    
     <tr>
       <td>February 16, 2021</td>
       <td>Github 3.0 Released</td>
     </tr>
+    
+    
+    
+    <tr>
+      <td>February 14, 2022</td>
+      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Blog: Include diagrams in your Markdown files with Mermaid</td>
+    </tr>
+    
+    
     <tr>
       <td>March 16, 2020</td>
       <td>GitHub acquires <strong>npm</strong></td>
