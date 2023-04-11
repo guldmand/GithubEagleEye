@@ -21,7 +21,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>January 31, 2023</td>
-      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/" target="_new">GitHub Projects: "Roadmaps" Now in Public Beta</a></td>
+      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/" target="_new">GitHub Projects: Roadmaps in public beta</a></td>
     </tr>
     <tr>
       <td>February 16, 2021</td>
