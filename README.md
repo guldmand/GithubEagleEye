@@ -97,7 +97,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>June 27, 2017</td>
-      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Blog: Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">Website</a> <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">Youtube Playlist</a></td>
+      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Blog: Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">Website</a> <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">▶️ Youtube Playlist</a></td>
     </tr>
     <tr>
         <td>June 2, 2017</td>
