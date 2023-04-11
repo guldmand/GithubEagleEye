@@ -109,7 +109,7 @@ Github Reconnaissance:satellite: and Monitoring: <strong>A Clear Overview of All
     </tr>
     <tr>
         <td>February 14, 2017</td>
-        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Blog: Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">Repository :file_cabinet:</a></td>
+        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Blog: Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">:file_cabinet: Repository</a></td>
     </tr>
     <tr>
       <td>September 1, 2015</td>
