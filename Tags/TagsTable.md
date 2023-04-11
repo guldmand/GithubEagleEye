@@ -1,4 +1,4 @@
-## Github Blog Tags
+## All Github Blog Tags
 <table>
     <tr>
         <th>Tag</th>
