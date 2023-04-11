@@ -37,7 +37,8 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>June 21, 2022</td>
-      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Blog: GitHub Copilot available to all developers</a></td>
+      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Blog: GitHub Copilot available to all developers</a>
+      </td>
     </tr> 
     <tr>
       <td>February 16, 2021</td>
