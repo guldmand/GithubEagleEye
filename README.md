@@ -23,6 +23,10 @@ February 16, 2021       Github version 3.0 Released
       <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/" target="_new">GitHub Projects: Roadmaps in public beta</a></td>
     </tr>
     <tr>
+      <td>January 28, 2023</td>
+      <td>~100 million users</td>
+    </tr>
+    <tr>
       <td>February 16, 2021</td>
       <td>Github version 3.0 Released</td>
     </tr>
