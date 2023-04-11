@@ -26,6 +26,14 @@ February 16, 2021       Github version 3.0 Released
     <tr>
       <td>February 16, 2021</td>
       <td><a href="#">Github version 3.0 Released</a></td>
-    </tr>    
+    </tr>
+    <tr>
+      <td>August 16, 2018</td>
+      <td><a href="#">GitHub Actions is launched</a></td>
+    </tr>
+    <tr>
+      <td>September 1, 2015</td>
+      <td><a href="#">GitHub reach 10 milion users</a></td>
+    </tr>
   </tbody>
 </table>
