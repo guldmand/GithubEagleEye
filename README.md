@@ -48,6 +48,10 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
       <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Blog: Include diagrams in your Markdown files with Mermaid</a></td>
     </tr>
     <tr>
+      <td>February 2, 2022</td>
+      <td><a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/">Blog: How to build a CI/CD pipeline with GitHub Actions in four simple steps</a></td>
+    </tr>
+    <tr>
       <td>March 16, 2020</td>
       <td>GitHub acquires <strong>npm</strong></td>
     </tr>
