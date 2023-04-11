@@ -36,6 +36,10 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
       <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Blog: Github Codespaces Introduced</a></td>
     </tr>
     <tr>
+      <td>August 29, 2022 </td>
+      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">Git’s database internals I: packed object store</a></td>
+    </tr>
+    <tr>
       <td>June 30, 2022 </td>
       <td><a href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/">Blog: Write Better Commits, Build Better Projects</a></td>
     </tr>
@@ -54,6 +58,14 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     <tr>
       <td>May 19, 2022</td>
       <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">Blog: Math support in Markdown</a></td>
+    </tr>
+    <tr>
+      <td>May 9, 2022</td>
+      <td><a href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/">Supercharging GitHub Actions with Job Summaries</a></td>
+    </tr>
+    <tr>
+      <td>April 7, 2022</td>
+      <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Git Credential Manager: authentication for everyone</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
