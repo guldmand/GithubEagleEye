@@ -35,6 +35,10 @@ February 16, 2021       Github version 3.0 Released
       <td><strong>GitHub Actions</strong> launched</td>
     </tr>
     <tr>
+      <td>June 4, 2018</td>
+      <td><a href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">Microsoft acquires Github</a></td>
+    </tr>    
+    <tr>
       <td>22 May, 2017</td>
       <td><a href="https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/">GitHub Marketplace launched</a></td>
     </tr>
