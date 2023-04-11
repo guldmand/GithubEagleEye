@@ -45,7 +45,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>February 14, 2022</td>
-      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Blog: Include diagrams in your Markdown files with Mermaid<</a>/td>
+      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Blog: Include diagrams in your Markdown files with Mermaid</a></td>
     </tr>
     <tr>
       <td>March 16, 2020</td>
