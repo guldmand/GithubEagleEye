@@ -13,6 +13,10 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
       <td><strong>GithubEagleEye</strong> created 👌</td>
     </tr>
     <tr>
+      <td>March 31, 2023</td>
+      <td><a href="https://www.youtube.com/watch?v=YwYurdueIrg">Open Source Friday: Kubernetes YAML Manifests Made Easy with Monokle 📺</td>
+    </tr>
+    <tr>
       <td>March 23, 2023</td>
       <td>
         <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">Blog: GitHub Secure Code Game</a> 
