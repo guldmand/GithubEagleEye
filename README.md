@@ -25,7 +25,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>January 31, 2023</td>
-      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/" target="_new">GitHub Projects: Roadmaps in public beta</a></td>
+      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">GitHub Projects: Roadmaps in public beta</a></td>
     </tr>
     <tr>
       <td>January 28, 2023</td>
