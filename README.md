@@ -32,7 +32,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>August 16, 2018</td>
-      <td><strong>GitHub Actions</strong> is launched</td>
+      <td><strong>GitHub Actions</strong> launched</td>
     </tr>
     <tr>
       <td>22 May, 2017</td>
