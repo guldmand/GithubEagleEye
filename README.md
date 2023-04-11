@@ -25,7 +25,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>January 31, 2023</td>
-      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">GitHub Projects: Roadmaps in public beta</a></td>
+      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">GitHub Projects: Roadmaps</a></td>
     </tr>
     <tr>
       <td>January 28, 2023</td>
@@ -45,7 +45,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>June 21, 2022</td>
-      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">GitHub Copilot available to all developers</a></td>
+      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">Introducing Copilot</a></td>
     </tr>
     <tr>
       <td>June 9, 2022</td>
