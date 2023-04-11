@@ -34,7 +34,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>February 16, 2021</td>
-      <td>Github version 3.0 Released</td>
+      <td>Github 3.0 Released</td>
     </tr>
     <tr>
       <td>March 16, 2020</td>
