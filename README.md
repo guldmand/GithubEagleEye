@@ -25,7 +25,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>January 31, 2023</td>
-      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">New GitHub Projects Feature: Roadmaps</a></td>
+      <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">New GitHub Projects feature: Roadmaps</a></td>
     </tr>
     <tr>
       <td>January 28, 2023</td>
@@ -103,11 +103,11 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>June 27, 2017</td>
-      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">🔗 Website</a> <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">▶️ Youtube Playlist</a></td>
+      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a>, <a href="https://opensourcefriday.com/">website</a>, <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">Youtube playlist</a></td>
     </tr>
     <tr>
         <td>June 2, 2017</td>
-        <td><a href="https://github.blog/2017-06-02-announcing-an-open-data-set-on-the-open-source-community/">Announcing Open Source Survey</a> <a href="https://opensourcesurvey.org/2017/">🔗 Website</a></td>
+        <td><a href="https://github.blog/2017-06-02-announcing-an-open-data-set-on-the-open-source-community/">Announcing Open Source Survey</a>, <a href="https://opensourcesurvey.org/2017/">website</a></td>
     </tr>    
     <tr>
       <td>22 May, 2017</td>
@@ -115,7 +115,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
         <td>February 14, 2017</td>
-        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">:file_cabinet: Repository</a></td>
+        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a>, <a href="https://opensource.guide/">website</a>, <a href="https://github.com/github/opensource.guide">:file_folder: Repository</a></td>
     </tr>
     <tr>
       <td>October 27, 2016 </td>
