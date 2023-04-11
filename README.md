@@ -54,7 +54,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>September 21, 2022</td>
-      <td><a href="https://github.blog/2022-09-21-the-readme-project-built-for-you/">Introducing TheReadMe Project</a></td>
+      <td><a href="https://github.blog/2022-09-21-the-readme-project-built-for-you/">Introducing TheReadMe Project</a>, <a href="https://github.com/readme">TheReadme Project website</td>
     </tr>
     <tr>
       <td>June 21, 2022</td>
