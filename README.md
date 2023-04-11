@@ -61,11 +61,11 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>May 9, 2022</td>
-      <td><a href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/">Supercharging GitHub Actions with Job Summaries</a></td>
+      <td><a href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/">Blog: Supercharging GitHub Actions with Job Summaries</a></td>
     </tr>
     <tr>
       <td>April 7, 2022</td>
-      <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Git Credential Manager: authentication for everyone</a></td>
+      <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Blog: Git Credential Manager: authentication for everyone</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
