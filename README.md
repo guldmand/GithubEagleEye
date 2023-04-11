@@ -33,6 +33,10 @@ February 16, 2021       Github version 3.0 Released
       <td>Github version 3.0 Released</td>
     </tr>
     <tr>
+      <td>March 16, 2020</td>
+      <td>GitHub acquires <strong>npm</strong></td>
+    </tr>
+    <tr>
       <td>May 23, 2019</td>
       <td>GitHub acquires <strong>Dependabot</strong></td>
     </tr>
