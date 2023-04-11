@@ -49,7 +49,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>May 19, 2022</td>
-      <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">Math support in Markdown</a></td>
+      <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">Markdown math</a></td>
     </tr>
     <tr>
       <td>May 9, 2022</td>
@@ -61,11 +61,11 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
         <td>June 23, 2021</td>
-        <td><a href="https://github.blog/2021-06-23-introducing-new-github-issues/">Introducing updated Github Issues and its effect Github Projects</a> <a href="https://github.com/features/issues">Projects Overview</a></td>
+        <td><a href="https://github.blog/2021-06-23-introducing-new-github-issues/">Issues Updated</a> <a href="https://github.com/features/issues">Effect on Projects</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
-      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Include diagrams in your Markdown files with Mermaid</a></td>
+      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Markdown diagrams</a></td>
     </tr>
     <tr>
       <td>February 2, 2022</td>
