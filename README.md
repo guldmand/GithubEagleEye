@@ -14,7 +14,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>March 31, 2023</td>
-      <td><a href="https://www.youtube.com/watch?v=YwYurdueIrg">Open Source Friday: Kubernetes YAML Manifests Made Easy with Monokle 📺</td>
+      <td><a href="https://www.youtube.com/watch?v=YwYurdueIrg">Open Source Friday: Kubernetes YAML Manifests Made Easy with Monokle</a> 📺</td>
     </tr>
     <tr>
       <td>March 23, 2023</td>
