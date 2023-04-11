@@ -15,7 +15,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     <tr>
       <td>March 23, 2023</td>
       <td>
-        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">:spiral_notepad: GitHub Secure Code Game</a> 
+        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">GitHub Secure Code Game</a> 
         <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">📺</a>
       </td>
     </tr>
@@ -33,47 +33,47 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>November 10, 2022</td>
-      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">:spiral_notepad: Github Codespaces Introduced</a></td>
+      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Github Codespaces Introduced</a></td>
     </tr>
     <tr>
       <td>August 29, 2022 </td>
-      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">:spiral_notepad: Git’s database internals I: packed object store</a></td>
+      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">Git’s database internals I: packed object store</a></td>
     </tr>
     <tr>
       <td>June 30, 2022 </td>
-      <td><a href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/">:spiral_notepad: Write Better Commits, Build Better Projects</a></td>
+      <td><a href="https://github.blog/2022-06-30-write-better-commits-build-better-projects/">Write Better Commits, Build Better Projects</a></td>
     </tr>
     <tr>
       <td>June 21, 2022</td>
-      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">:spiral_notepad: GitHub Copilot available to all developers</a></td>
+      <td><a href="https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/">GitHub Copilot available to all developers</a></td>
     </tr>
     <tr>
       <td>June 9, 2022</td>
-      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">:spiral_notepad: Introducing Achievements</a></td>
+      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Introducing Achievements</a></td>
     </tr>
     <tr>
       <td>June 6, 2022</td>
-      <td><a href="https://github.blog/2022-06-06-introducing-github-skills/">:spiral_notepad: Introducing GitHub Skills</a></td>
+      <td><a href="https://github.blog/2022-06-06-introducing-github-skills/">Introducing GitHub Skills</a></td>
     </tr>
     <tr>
       <td>May 19, 2022</td>
-      <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">:spiral_notepad: Math support in Markdown</a></td>
+      <td><a href="https://github.blog/2022-05-19-math-support-in-markdown/">Math support in Markdown</a></td>
     </tr>
     <tr>
       <td>May 9, 2022</td>
-      <td><a href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/">:spiral_notepad: Supercharging GitHub Actions with Job Summaries</a></td>
+      <td><a href="https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/">Supercharging GitHub Actions with Job Summaries</a></td>
     </tr>
     <tr>
       <td>April 7, 2022</td>
-      <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">:spiral_notepad: Git Credential Manager: authentication for everyone</a></td>
+      <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Git Credential Manager: authentication for everyone</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
-      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">:spiral_notepad: Include diagrams in your Markdown files with Mermaid</a></td>
+      <td><a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/">Include diagrams in your Markdown files with Mermaid</a></td>
     </tr>
     <tr>
       <td>February 2, 2022</td>
-      <td><a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/">:spiral_notepad: How to build a CI/CD pipeline with GitHub Actions in four simple steps</a></td>
+      <td><a href="https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/">How to build a CI/CD pipeline with GitHub Actions in four simple steps</a></td>
     </tr>
     <tr>
       <td>February 16, 2021</td>
@@ -97,19 +97,19 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>June 27, 2017</td>
-      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">:spiral_notepad: Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">🔗 Website</a> <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">▶️ Youtube Playlist</a></td>
+      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">🔗 Website</a> <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">▶️ Youtube Playlist</a></td>
     </tr>
     <tr>
         <td>June 2, 2017</td>
-        <td><a href="https://github.blog/2017-06-02-announcing-an-open-data-set-on-the-open-source-community/">:spiral_notepad: Announcing Open Source Survey</a> <a href="https://opensourcesurvey.org/2017/">🔗 Website</a></td>
+        <td><a href="https://github.blog/2017-06-02-announcing-an-open-data-set-on-the-open-source-community/">Announcing Open Source Survey</a> <a href="https://opensourcesurvey.org/2017/">🔗 Website</a></td>
     </tr>    
     <tr>
       <td>22 May, 2017</td>
-      <td><a href="https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/">:spiral_notepad: GitHub Marketplace launched</a></td>
+      <td><a href="https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/">GitHub Marketplace launched</a></td>
     </tr>
     <tr>
         <td>February 14, 2017</td>
-        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">:spiral_notepad: Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">:file_cabinet: Repository</a></td>
+        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a> <a href="https://opensource.guide/">🔗 Website</a> <a href="https://github.com/github/opensource.guide">:file_cabinet: Repository</a></td>
     </tr>
     <tr>
       <td>September 1, 2015</td>
