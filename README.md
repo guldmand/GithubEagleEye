@@ -12,8 +12,8 @@ February 16, 2021       Github version 3.0 Released
 <table>
   <tbody>
     <tr>
-      <th align="Left">Date</th>
-      <th align="Left">Information</th>
+      <th align="Left">Date:</th>
+      <th align="Left">Information:</th>
     </tr>
     <tr>
       <td>April 4, 2023</td>
