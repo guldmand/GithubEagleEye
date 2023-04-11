@@ -24,7 +24,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>February 16, 2021</td>
-      <td>Github version 3.0 Released</a></td>
+      <td>Github version 3.0 Released</td>
     </tr>
     <tr>
       <td>August 16, 2018</td>
@@ -36,7 +36,11 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>September 1, 2015</td>
-      <td>10 milion users</a></td>
+      <td>10 milion users</td>
+    </tr>
+    <tr>
+      <td>February 8, 2008</td>
+      <td>Github was founded</td>
     </tr>
   </tbody>
 </table>
