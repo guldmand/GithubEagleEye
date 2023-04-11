@@ -49,7 +49,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>June 9, 2022</td>
-      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Blog: Introducing Achievements: recognizing the many stages of a developer’s coding journey</a></td>
+      <td><a href="https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/">Blog: Introducing Achievements</a></td>
     </tr>
     <tr>
       <td>June 6, 2022</td>
