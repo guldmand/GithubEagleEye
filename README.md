@@ -34,7 +34,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>November 10, 2022</td>
-      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Codespaces Introduced</a></td>
+      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Github Codespaces Introduced</a></td>
     </tr>
     <tr>
       <td>June 21, 2022</td>
