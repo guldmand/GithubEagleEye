@@ -44,7 +44,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>February 8, 2008</td>
-      <td>Github was founded</td>
+      <td><strong>Github</strong> founded</td>
     </tr>
   </tbody>
 </table>
