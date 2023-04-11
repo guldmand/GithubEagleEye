@@ -16,7 +16,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>April 4, 2023</td>
-      <td><a href="#">GithubEagleEye was created</></td>
+      <td><strong>GithubEagleEye</strong> was created</td>
     </tr>
     <tr>
       <td>January 31, 2023</td>
