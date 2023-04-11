@@ -94,10 +94,22 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     <tr>
       <td>June 4, 2018</td>
       <td><a href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">Microsoft acquires Github</a></td>
+    </tr>
+    <tr>
+      <td>June 27, 2017</td>
+      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a> <a href="https://opensourcefriday.com/">Website</a</td>
+    </tr>
+    <tr>
+        <td>June 2, 2017</td>
+        <td><a href="https://github.blog/2017-06-02-announcing-an-open-data-set-on-the-open-source-community/">Blog: Announcing Open Source Survey</a> <a href="https://opensourcesurvey.org/2017/">Website</a></td>
     </tr>    
     <tr>
       <td>22 May, 2017</td>
       <td><a href="https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/">Blog: GitHub Marketplace launched</a></td>
+    </tr>
+    <tr>
+        <td>February 14, 2017</td>
+        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a> <a href="https://opensource.guide/">Website</a></td>
     </tr>
     <tr>
       <td>September 1, 2015</td>
