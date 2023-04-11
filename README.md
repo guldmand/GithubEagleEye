@@ -57,11 +57,11 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>March 16, 2020</td>
-      <td>GitHub acquires <strong>npm</strong> 💰</td>
+      <td>GitHub acquires <strong>npm</strong></td>
     </tr>
     <tr>
       <td>May 23, 2019</td>
-      <td>GitHub acquires <strong>Dependabot</strong> 💰</td>
+      <td>GitHub acquires <strong>Dependabot</strong></td>
     </tr>
     <tr>
       <td>August 16, 2018</td>
@@ -69,7 +69,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>June 4, 2018</td>
-      <td><a href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">Microsoft acquires Github</a> 💰</td>
+      <td><a href="https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/">Microsoft acquires Github</a></td>
     </tr>    
     <tr>
       <td>22 May, 2017</td>
