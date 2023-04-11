@@ -16,7 +16,7 @@ February 16, 2021       Github version 3.0 Released
     </tr>
     <tr>
       <td>April 4, 2023</td>
-      <td><strong>GithubEagleEye</strong> was created</td>
+      <td><strong>GithubEagleEye</strong> created</td>
     </tr>
     <tr>
       <td>January 31, 2023</td>
@@ -29,6 +29,10 @@ February 16, 2021       Github version 3.0 Released
     <tr>
       <td>February 16, 2021</td>
       <td>Github version 3.0 Released</td>
+    </tr>
+    <tr>
+      <td>May 23, 2019</td>
+      <td>GitHub acquires <strong>Dependabot</strong></td>
     </tr>
     <tr>
       <td>August 16, 2018</td>
