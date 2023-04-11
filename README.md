@@ -10,7 +10,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>April 4, 2023</td>
-      <td><strong>GithubEagleEye</strong> created 😎👌</td>
+      <td><strong>GithubEagleEye</strong> created 👌</td>
     </tr>
     <tr>
       <td>March 23, 2023</td>
