@@ -1,7 +1,6 @@
 # GithubEagleEye 🦅
 Github reconnaissance and monitoring: A Clear Overview of All Github Updates<br>
 <br>
-<br>
 <!--
 April 4, 2023           GithubEagleEye was created
 January 31, 2023        GitHub Projects: "Roadmaps" Now in Public Beta
