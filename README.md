@@ -37,7 +37,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>August 29, 2022 </td>
-      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">Git’s database internals I: packed object store</a></td>
+      <td><a href="https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/">Blog: Git’s database internals I: packed object store</a></td>
     </tr>
     <tr>
       <td>June 30, 2022 </td>
