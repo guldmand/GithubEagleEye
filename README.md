@@ -15,13 +15,13 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     <tr>
       <td>March 23, 2023</td>
       <td>
-        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">GitHub Secure Code Game</a> 
+        <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">Introducing Skills: Secure Code Game</a> 
         <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">📺</a>
       </td>
     </tr>
     <tr>
       <td>March 22, 2023</td>
-      <td><a href="https://github.com/features/preview/copilot-x">GitHub Copilot X Introduced</a></td>
+      <td><a href="https://github.com/features/preview/copilot-x">Introducing Copilot X</a></td>
     </tr>
     <tr>
       <td>January 31, 2023</td>
@@ -33,7 +33,7 @@ Github Reconnaissance:satellite: and Monitoring:stethoscope:: <strong>A Clear Ov
     </tr>
     <tr>
       <td>November 10, 2022</td>
-      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Github Codespaces Introduced</a></td>
+      <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Introducing Codespaces</a></td>
     </tr>
     <tr>
       <td>August 29, 2022 </td>
