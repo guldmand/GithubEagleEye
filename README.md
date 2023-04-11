@@ -31,6 +31,10 @@ February 16, 2021       Github version 3.0 Released
       <td><strong>GitHub Actions</strong> is launched</td>
     </tr>
     <tr>
+      <td>22 May, 2017</td>
+      <td><a href="https://github.blog/2017-05-22-introducing-github-marketplace-and-more-tools-to-customize-your-workflow/"><strong>GitHub Marketplace</strong> launched</a></td>
+    </tr>
+    <tr>
       <td>September 1, 2015</td>
       <td>10 milion users</a></td>
     </tr>
