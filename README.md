@@ -29,7 +29,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>January 28, 2023</td>
-      <td>~100 million users</td>
+      <td>~100 million users 🧑‍💻</td>
     </tr>
     <tr>
       <td>November 10, 2022</td>
@@ -77,7 +77,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
     </tr>
     <tr>
       <td>September 1, 2015</td>
-      <td>10 milion users</td>
+      <td>10 milion users 🧑‍💻</td>
     </tr>
     <tr>
       <td>February 8, 2008</td>
