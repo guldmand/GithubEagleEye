@@ -123,7 +123,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>June 27, 2017</td>
-      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a>, <a href="https://opensourcefriday.com/">website</a>, <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">Youtube playlist</a></td>
+      <td><a href="https://github.blog/2017-06-27-contribute-on-open-source-friday/">Announcing Open Source Friday</a>, <a href="https://opensourcefriday.com/">website</a>, <a href="https://www.youtube.com/playlist?list=PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P">youtube playlist</a></td>
     </tr>
     <tr>
         <td>June 2, 2017</td>
@@ -135,7 +135,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
         <td>February 14, 2017</td>
-        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a>, <a href="https://opensource.guide/">website</a>, <a href="https://github.com/github/opensource.guide">:file_folder: Repository</a></td>
+        <td><a href="https://github.blog/2017-02-14-announcing-open-source-guides/">Announcing Open Source Guides</a>, <a href="https://opensource.guide/">website</a>, <a href="https://github.com/github/opensource.guide">repository</a></td>
     </tr>
     <tr>
       <td>October 27, 2016 </td>
