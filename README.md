@@ -21,6 +21,10 @@ February 16, 2021       Github version 3.0 Released
       <td><strong>GithubEagleEye</strong> created</td>
     </tr>
     <tr>
+      <td>March 22, 2023</td>
+      <td><a href="https://github.com/features/preview/copilot-x">GitHub Copilot X Introduced</a></td>
+    </tr>
+    <tr>
       <td>January 31, 2023</td>
       <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/" target="_new">GitHub Projects: Roadmaps in public beta</a></td>
     </tr>
