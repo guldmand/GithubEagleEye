@@ -16,7 +16,7 @@ Github Reconnaissance and Monitoring: A Clear Overview of All Github Updates
       <td>March 23, 2023</td>
       <td>
         <a href="https://github.blog/2023-03-23-build-a-secure-code-mindset-with-the-github-secure-code-game/">Blog: GitHub Secure Code Game</a> 
-        <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">▶️</a>
+        <a href="https://www.linkedin.com/posts/github_did-you-play-the-secure-code-game-yet-activity-7047615426461118465-Kl6_">📺</a>
       </td>
     </tr>
     <tr>
