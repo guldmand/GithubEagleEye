@@ -14,7 +14,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
       <td>March 28, 2023</td>
-      <td><a href="https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/">Announcing the GitHub Actions extension for VS Code</a></td>
+      <td><a href="https://github.blog/2023-03-28-announcing-the-github-actions-extension-for-vs-code/">GitHub Actions extension for VS Code</a></td>
     </tr>
     <tr>
       <td>March 23, 2023</td>
