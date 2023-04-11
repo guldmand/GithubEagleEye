@@ -1,7 +1,4 @@
 ## Github Blog Tags
-<br>
-<br>
-
 <table>
     <tr>
         <th>Tag</th>
