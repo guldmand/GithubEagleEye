@@ -1,5 +1,4 @@
-# GithubEagleEye 🦅<br>
-<br>
+# GithubEagleEye 🦅
 Github reconnaissance and monitoring: A Clear Overview of All Github Updates<br>
 <br>
 <br>
