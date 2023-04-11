@@ -67,7 +67,7 @@ Github Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Upd
     </tr>
     <tr>
         <td>June 23, 2021</td>
-        <td><a href="https://github.blog/2021-06-23-introducing-new-github-issues/">New Issues</a> and <a href="https://github.com/features/issues">How the new Issues affect Github Projects</a></td>
+        <td><a href="https://github.blog/2021-06-23-introducing-new-github-issues/">New Issues</a> and <a href="https://github.com/features/issues">How new Issues affect Github Projects</a></td>
     </tr>
     <tr>
       <td>February 14, 2022</td>
