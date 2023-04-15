@@ -19,7 +19,7 @@ in general github operates with 3 steps in the Release Cycle
       <td>Available public or private</td>
     </tr>
     <tr>
-      <td>General availability </td>
+      <td>General Availability </td>
       <td>
         Open publicly to all users
       </td>
