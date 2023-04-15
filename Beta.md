@@ -1,13 +1,4 @@
-# Github Beta
-
 ## Release Cycle
-
-|Phase|Description|
-|-----|-----------|
-|Alpha|under development|
-|Beta |available public or private|
-|GA   |open publicly to all users|
-
 
 <table>
   <tbody>
