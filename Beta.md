@@ -8,8 +8,8 @@ The following things is currently in Github Beta and available to try out for ev
 - Global Navigation update
 
 **Enabling and disabling Beta features**<br>
-You can disable or enable the beta on GitHub.com.
-In the upper-right corner of any page, click your profile photo, then click Feature preview. 
+You can disable or enable the beta on GitHub.com:<br>
+In the upper-right corner of any page, click your profile photo, then click Feature preview.<br> 
 Here you can enable/disable Github beta features on your user.
 
 
