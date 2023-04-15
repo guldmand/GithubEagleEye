@@ -7,13 +7,13 @@ The following things is currently in Github Beta and available to try out for ev
 - Command Palette
 - Global Navigation update
 
-**Enabling and disabling Beta features**
+**Enabling and disabling Beta features**<br>
 You can disable or enable the beta on GitHub.com.
 In the upper-right corner of any page, click your profile photo, then click Feature preview. 
 Here you can enable/disable Github beta features on your user.
 
 
-**Github Release Cycle**
+**Github Release Cycle**<br>
 Github operates with the following 3 steps in its Release Cycle:
 
 <table>
