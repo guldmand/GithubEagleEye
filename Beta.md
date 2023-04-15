@@ -1,3 +1,7 @@
+# Github Beta
+
+in general github operates with 3 steps in the Release Cycle
+
 ## Release Cycle
 
 <table>
@@ -26,8 +30,7 @@
 For more info checkout the <a href="https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview">github release cycle</a>
 
 
-
-# Currently in Beta
+The following things is currently in Github Beta and available to try out for everyone:
 
 ## Github Desktop (Beta)
 https://desktop.github.com/beta/
