@@ -1,8 +1,21 @@
 # Github Beta
 
-in general github operates with 3 steps in the Release Cycle
+The following things is currently in Github Beta and available to try out for everyone:
+- <a href="https://desktop.github.com/beta/">Github Desktop (Beta)</a>
+- New Code Search and Code View
+- Colorblind themes
+- Command Palette
+- Global Navigation update
 
-## Release Cycle
+## Enabling and disabling Beta features
+You can disable or enable the beta on GitHub.com.
+In the upper-right corner of any page, click your profile photo, then click Feature preview. 
+Here you can enable/disable Github beta features on your user.
+
+
+## Github Release Cycle
+
+Github operates with the following 3 steps in its Release Cycle:
 
 <table>
   <tbody>
@@ -27,10 +40,6 @@ in general github operates with 3 steps in the Release Cycle
   </tbody>
 </table>
 
-For more info checkout the <a href="https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview">github release cycle</a>
+For more in depth information checkout the <a href="https://docs.github.com/en/get-started/using-github/exploring-early-access-releases-with-feature-preview">github release cycle</a>
 
 
-The following things is currently in Github Beta and available to try out for everyone:
-
-## Github Desktop (Beta)
-https://desktop.github.com/beta/
