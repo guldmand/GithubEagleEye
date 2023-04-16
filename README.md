@@ -30,6 +30,10 @@ Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All 
       <td><a href="https://github.com/features/preview/copilot-x">Introducing Github Copilot X</a></td>
     </tr>
     <tr>
+      <td>March 7, 2023 </a>
+      <td><a href="https://github.blog/2023-03-07-file-editing-on-github-mobile-keeps-leveling-up/">File editing on GitHub Mobile keeps leveling up</a></td>
+    </tr>
+    <tr>
       <td>January 31, 2023</td>
       <td><a href="https://github.blog/changelog/2023-01-31-roadmap-in-projects-public-beta/">New GitHub Projects feature: Roadmaps</a></td>
     </tr>
