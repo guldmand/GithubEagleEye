@@ -11,6 +11,10 @@ Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All 
       <th align="Left">Information:</th>
     </tr>
     <tr>
+      <td>December 14, 2023</td>
+      <td><a href="https://github.blog/changelog/2023-12-14-new-markdown-extension-alerts-provide-distinctive-styling-for-significant-content/">Markdown alerts</a></td>
+    </tr>
+    <tr>
       <td>April 4, 2023</td>
       <td><strong>GithubEagleEye</strong> created 👌</td>
     </tr>
