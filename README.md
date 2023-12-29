@@ -1,5 +1,5 @@
 # GithubEagleEye 🦅
-Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Updates</strong>
+Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Updates relevant for developers</strong>
 <br>
 <br>
 
