@@ -53,10 +53,6 @@ Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All 
       <th align="Left">Information:</th>
     </tr>
     <tr>
-      <td>January 18, 2022</td>
-      <td><a href="https://twitter.com/ghchangelog">First tweet of the official Github changelog Twitter profile</a></td>
-    </tr>
-    <tr>
       <td>November 10, 2022</td>
       <td><a href="https://github.blog/2022-11-10-whats-new-with-codespaces-from-github-universe-2022/">Introducing Github Codespaces</a></td>
     </tr>
@@ -93,6 +89,10 @@ Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All 
     <tr>
       <td>April 7, 2022</td>
       <td><a href="https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/">Git Credential Manager: authentication for everyone</a></td>
+    </tr>
+    <tr>
+      <td>January 18, 2022</td>
+      <td><a href="https://twitter.com/ghchangelog">First tweet of the official Github changelog Twitter profile</a></td>
     </tr>
   </tbody>
 </table>
