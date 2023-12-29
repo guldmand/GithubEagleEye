@@ -12,7 +12,7 @@ Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All 
     </tr>
     <tr>
       <td>December 14, 2023</td>
-      <td><a href="https://github.blog/changelog/2023-12-14-github-issues-projects-december-14th-update/">Organization project templates</a></td>
+      <td><a href="https://github.blog/changelog/2023-12-14-github-issues-projects-december-14th-update/">Github Project: Organization templates</a></td>
     </tr>
     <tr>
       <td>December 14, 2023</td>
