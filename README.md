@@ -2,7 +2,7 @@
 Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Updates relevant for developers</strong>
 <br>
 <br>
-** Version 1.2024.Q1**
+<strong>Version 1.2024.Q1</strong>
 
 ## 2023
 <table>
