@@ -1,7 +1,11 @@
 # GithubEagleEye 🦅
 Github :octocat: Reconnaissance and Monitoring: <strong>A Clear Overview of All Github Updates relevant for developers</strong>
 <br>
+<br>
+
+## Version
 v.1.2024.Q1
+<br>
 <br>
 
 ## 2023
